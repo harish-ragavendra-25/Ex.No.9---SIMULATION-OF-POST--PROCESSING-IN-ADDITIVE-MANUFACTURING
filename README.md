@@ -1,4 +1,4 @@
-![image](https://github.com/harish-ragavendra-25/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/114852180/5911f765-bbec-4916-9ef1-2ebc65ed3918)## AIM: 
+## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
 ## REQUIREMENTS:
